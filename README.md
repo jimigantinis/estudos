@@ -1,3 +1,4 @@
 # estudos
 
-São somente estudos em HTML, CSS e principalmente Javascript.
+São somente estudos e exercícios em HTML, CSS e principalmente Javascript.
+
