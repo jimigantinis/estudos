@@ -1,0 +1,41 @@
+body{
+
+    background: rgb(61, 61, 163);
+}
+.titulo{
+
+    text-align: center;
+    font-size: 50px;
+    color:#ffffff;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+.bloco{
+
+    height:200px;
+    width: 500px;
+    border: 1px solid rgba(0,0,0.4);
+    margin: auto;
+    background: #ffffff;
+    border-radius: 10px;
+
+}
+
+p{
+    margin-left: 10px;
+}
+#botao{
+    margin-left: 10px;
+
+}
+#contar{
+    margin-left: 10px;
+    margin-top: 7px;
+}
+
+.rodape{
+    text-align: center;
+    font-size: 15px;
+    color: #ffffff;
+    margin-top: 10px;
+}
